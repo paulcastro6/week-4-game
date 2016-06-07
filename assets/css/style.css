@@ -1,0 +1,72 @@
+html {
+	height: 100%;
+	background: url('background.jpg') no-repeat center center;
+	background-size: cover;
+}
+button {
+	margin: 20px;
+}
+
+h1{
+	color: white;
+	text-align: center;
+}
+
+body{
+	background: none;
+}
+
+p{
+	color: red;
+	margin: 20px;
+	margin-bottom: 20px;
+	padding-bottom: 10px;
+	font-size: 22px;
+	font-weight: bolder;
+}
+
+#totalscore{
+	color: black;
+	font-size: 19px;
+	font-family: 'Helvecta', sans-serif;
+	font-weight: bolder;
+	background-color: white;
+    border-width: 10px;
+    margin-top: 10px;
+    margin-right: 900px;
+}
+
+.wins{
+	color: black;
+	font-size: 19px;
+	font-family: 'Helvecta', sans-serif;
+	font-weight: bolder;
+	background-color: white;
+    border-width: 10px;
+    margin-top: 10px;
+    margin-right: 900px;
+}
+
+.losses{
+	color: black;
+	font-size: 19px;
+	font-family: 'Helvecta', sans-serif;
+	font-weight: bolder;
+	background-color: white;
+    margin-top: 10px;
+    margin-right: 900px;
+}
+
+.dragonBalls{
+	margin-top: 30px;
+}
+
+.randomBox{
+	
+	padding: 25px;
+    margin-top: 10px;
+    color: red;
+	font-size: 30px;
+	font-family: 'Helvecta', sans-serif;
+	font-weight: bolder;
+}
